@@ -1,0 +1,406 @@
+Discover the connectivity cloud
+New ZT Slides 
+https://docs.google.com/presentation/d/175j5vntoEixLu71K-BtxgotqT9rvccm6uQoM8Qep5JU/edit#slide=id.g2883d8249d3_1_55 
+
+Cloudflare Corporate Overview
+Public company: founded 2010; IPO 2019
+4,800+ employees
+$1B+ ARR, growing ~50%
+38% of the Fortune 500 are paying Cloudflare customers
+Millions of free users; 332,000 paying customers
+17 offices; 330+ cities in network; 125+ countries
+Ranked among the World’s Most Innovative Companies by Fast Company; leader in 9 major industry analyst reports/MQs 
+Single, unified global security platform
+One of the world's largest cloud-native networks
+Cloudflare, Inc. (www.cloudflare.com / @cloudflare) is on a mission to help build a better Internet. Cloudflare’s suite of products protect and accelerate any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare have all web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures 2018 list and ranked among the World’s Most Innovative Companies by Fast Company in 2019. 
+
+https://www.cloudflare.com/galileo/
+1 https://www.dnsperf.com/
+2 https://w3techs.com/technologies/overview/proxy/all
+3 https://bgp.he.net/report/exchanges#_participants
+
+https://wiki.cfops.it/display/COM/Public-Facing+Stats
+
+Cloudflare’s 1.1.1.1 public DNS resolver is one of the world’s fastest and most reliable*: https://www.dnsperf.com/#!dns-resolvers
+Cloudflare is one of the world’s fastest and most reliable authoritative DNS providers*: https://www.dnsperf.com/
+Cloudflare is used as a reverse proxy by nearly 20% of all websites*: https://w3techs.com/technologies/overview/proxy/all
+Cloudflare is connected to more Internet Exchanges than other providers worldwide*: https://bgp.he.net/report/exchanges#_participants
+
+- We are painting the world orange. Out of the top 3,000 networks in the world, Cloudflare has the fastest TCP connection time in 1,310 of them.
+- Cloudflare’s 172 Tbps network blocks 126 billion daily threats on average.
+- Cloudflare network routes an average of 39 million HTTP requests per second on average.
+- Our global network spans over 275 cities & 100 countries.
+- Cloudflare is used by 80.5% of all the websites whose reverse proxy service we know.
+- Cloudflare network can reach 95% of the world’s population w
+
+https://www.cloudflare.com/galileo/
+
+
+1 https://www.dnsperf.com/
+2 https://w3techs.com/technologies/overview/proxy/all
+3 https://bgp.he.net/report/exchanges#_participants
+
+https://wiki.cfops.it/display/COM/Public-Facing+Stats
+
+Cloudflare’s 1.1.1.1 public DNS resolver is one of the world’s fastest and most reliable*: https://www.dnsperf.com/#!dns-resolvers
+Cloudflare is one of the world’s fastest and most reliable authoritative DNS providers*: https://www.dnsperf.com/
+Cloudflare is used as a reverse proxy by nearly 20% of all websites*: https://w3techs.com/technologies/overview/proxy/all
+Cloudflare is connected to more Internet Exchanges than other providers worldwide*: https://bgp.he.net/report/exchanges#_participants
+
+- We are painting the world orange. Out of the top 3,000 networks in the world, Cloudflare has the fastest TCP connection time in 1,310 of them.
+- Cloudflare’s 172 Tbps network blocks 126 billion daily threats on average.
+- Cloudflare network routes an average of 39 million HTTP requests per second on average.
+- Our global network spans over 275 cities & 100 countries.
+- Cloudflare is used by 80.5% of all the websites whose reverse proxy service we know.
+- Cloudflare network can reach 95% of the world’s population w
+
+GLOBALLY DISTRIBUTED, CLOUD-NATIVE NETWORK
+  330+ cities   in 120+ countries, including mainland China
+w/210+ cities
+for AI inference powered by GPUs
+~50 msfrom ~95% of the world’sInternet-connected population
+
+477 Tbpsof network capacity and growing
+~13,000 networks 
+directly connect to Cloudflare, including ISPs, cloud providers, and large enterprises
+Cloudflare city 
+(as of Q1 2024)
+Cloudflare backbone 
+(as of Q1 2024)
+A single network that delivers local capabilities with global scale 
+= Cloudflare city (Map data as of December 15, 2021)
+
+How do we do this?
+
+It all starts with our global network. We’ve been building it for over 10 years. We’ve spent hundreds of millions on the footprint to get us within 50 milliseconds of 95% of the users on the Internet. And we continue to make this one of our top priorities. 
+
+Our  infrastructure is in data centers in over 275 cities around the world across more than 100 countries. 
+
+Why so many cities? Well, first of all, that's where the Internet population is. We're global. But more importantly, we appreciate that at the end of the day, when it comes to performance and security, you can't improve upon the speed of light. We're constantly thinking about how we can bring the best experience as close as possible to the end user eyeballs, to provide the lowest latency and highest possible performance. On the security side, we want to be able to detect and mitigate threats where they happen and stop them in their tracks.
+
+Now, it's not just about those data centers and the different cities. It's also about the interconnections, or the connections that we have to those different networks. Today, we connect directly with over 11,000 networks, and we're constantly building on top of that to build and strengthen that fabric. And, of course, under all of this, we're making sure that we not only have a big and broad network, but that it's also incredibly powerful to handle massive amounts of traffic and to mitigate and detect massive threats.
+
+At the end of 2023, our overall capacity was 155 Tbps, and that’s growing everyday. We are servicing millions of customers and adding new websites and apps every day.
+
+CLOUDFLARE’S MODERN ARCHITECTURE
+The same Cloudflare, everywhere
+= Cloudflare city (Map data as of December 15, 2021)
+
+How do we do this?
+
+It all starts with our global network. We’ve been building it for over 10 years. We’ve spent hundreds of millions on the footprint to get us within 50 milliseconds of 95% of the users on the Internet. And we continue to make this one of our top priorities. 
+
+Our  infrastructure is in data centers in over 275 cities around the world across more than 100 countries. 
+
+Why so many cities? Well, first of all, that's where the Internet population is. We're global. But more importantly, we appreciate that at the end of the day, when it comes to performance and security, you can't improve upon the speed of light. We're constantly thinking about how we can bring the best experience as close as possible to the end user eyeballs, to provide the lowest latency and highest possible performance. On the security side, we want to be able to detect and mitigate threats where they happen and stop them in their tracks.
+
+Now, it's not just about those data centers and the different cities. It's also about the interconnections, or the connections that we have to those different networks. Today, we connect directly with over 11,000 networks, and we're constantly building on top of that to build and strengthen that fabric. And, of course, under all of this, we're making sure that we not only have a big and broad network, but that it's also incredibly powerful to handle massive amounts of traffic and to mitigate and detect massive threats.
+
+At the end of 2023, our overall capacity was 155 Tbps, and that’s growing everyday. We are servicing millions of customers and adding new websites and apps every day.
+
+CLOUDFLARE INTEGRATION
+How does it work?
+Accelerated Performance
+Cloudflare’s Globally Distributed Network
+Attackers
+Visitors / Users
+Crawlers, Bots
+Multi-Cloud
+On-premise
+Hybrid Cloud
+SaaS
+= Cloudflare city (Map data as of December 15, 2021)
+
+How do we do this?
+
+It all starts with our global network. We’ve been building it for over 10 years. We’ve spent hundreds of millions on the footprint to get us within 50 milliseconds of 95% of the users on the Internet. And we continue to make this one of our top priorities. 
+
+Our  infrastructure is in data centers in over 275 cities around the world across more than 100 countries. 
+
+Why so many cities? Well, first of all, that's where the Internet population is. We're global. But more importantly, we appreciate that at the end of the day, when it comes to performance and security, you can't improve upon the speed of light. We're constantly thinking about how we can bring the best experience as close as possible to the end user eyeballs, to provide the lowest latency and highest possible performance. On the security side, we want to be able to detect and mitigate threats where they happen and stop them in their tracks.
+
+Now, it's not just about those data centers and the different cities. It's also about the interconnections, or the connections that we have to those different networks. Today, we connect directly with over 11,000 networks, and we're constantly building on top of that to build and strengthen that fabric. And, of course, under all of this, we're making sure that we not only have a big and broad network, but that it's also incredibly powerful to handle massive amounts of traffic and to mitigate and detect massive threats.
+
+At the end of 2023, our overall capacity was 155 Tbps, and that’s growing everyday. We are servicing millions of customers and adding new websites and apps every day.
+
+Legacy networks & products are not built to support your digital future
+WHAT GOT YOU HERE…
+Office users
+Remote users
+External users
+MPLS
+Legacy WAN
+FWaaS
+Direct InternetAccess
+4G/5G
+Broadband
+DMVPN
+SD-WAN
+AWS Transit Gateway
+Azure vWAN
+DNSF
+DLP
+DDoS
+ZTNA
+CASB
+SWG
+RBI
+Self-hosted public cloud
+SaaS apps and email
+Self-hosted private DC, colo and cloud
+SEG
+Slide goal: Reinforce that legacy networks and security products are too complex, too vulnerable, and too fragile to enable organizations to pursue that digital transformation.
+
+Sample talk track
+But when you look under the hood at how most organizations set up their IT and security today, you’ll see a complex mess looking something like this.
+This architecture reflects too many point solutions, too many different routes for traffic without any consistency across office, remote, and third party users.
+Managing all of this is too unwieldy and holds many organizations back from delivering the digital experiences they need to be competitive.
+
+
+ARCHITECTURE AT MASSIVE SCALE
+To provide a private, secure, reliable, performant, agile enterprise-grade Internet experience, Cloudflare is everywhere
+7
+Daily threats blocked
+
+of world’s Internet users within 50ms of our network
+
+
+Uptime SLA
+
+
+
+100%
+95%
+215B
+~20% of the Web runs on Cloudflare
+This is only possible because
+= Cloudflare city (Map data as of December 15, 2021)
+
+How do we do this?
+
+It all starts with our global network. We’ve been building it for over 10 years. We’ve spent hundreds of millions on the footprint to get us within 50 milliseconds of 95% of the users on the Internet. And we continue to make this one of our top priorities. 
+
+Our  infrastructure is in data centers in over 275 cities around the world across more than 100 countries. 
+
+Why so many cities? Well, first of all, that's where the Internet population is. We're global. But more importantly, we appreciate that at the end of the day, when it comes to performance and security, you can't improve upon the speed of light. We're constantly thinking about how we can bring the best experience as close as possible to the end user eyeballs, to provide the lowest latency and highest possible performance. On the security side, we want to be able to detect and mitigate threats where they happen and stop them in their tracks.
+
+Now, it's not just about those data centers and the different cities. It's also about the interconnections, or the connections that we have to those different networks. Today, we connect directly with over 11,000 networks, and we're constantly building on top of that to build and strengthen that fabric. And, of course, under all of this, we're making sure that we not only have a big and broad network, but that it's also incredibly powerful to handle massive amounts of traffic and to mitigate and detect massive threats.
+
+At the end of 2023, our overall capacity was 155 Tbps, and that’s growing everyday. We are servicing millions of customers and adding new websites and apps every day.
+
+Compliance/Privacy: FedRAMP, ISO, SOC, PCI, GDPR compliant, Logs & Analytics, Data Localization Suite
+Cloudflare Application Services
+Cloudflare Edge Developer Platform
+Cloudflare Global Network
+Cloudflare Zero Trust Services
+Cloudflare Network Services
+Cloudflare One
+1
+Zero Trust Network Access
+Remote Browser Isolation
+Data Loss Prevention
+Network Interconnect
+Smart Routing
+WAN-as-a-Service
+Firewall-as-a-Service
+    
+L3 & L4 DDoS Protection
+Rate Limiting
+Load Balancing
+Bot Management
+CDN and DNS
+L7 DDoS Protection
+WAF with API Protection
+    
+Secure Web Gateway
+Cloud Access Security Broker
+Cloud Email Security
+Contact us to request access
+IDS/IPS 1
+WHAT WE OFFER
+Cloudflare Platform
+Workers
+Pages
+Durable Objects
+Stream
+Cloudflare Edge Developer Platform
+R2
+Workers KV
+Images
+We have three main categories of services: Zero Trust, Network and Application services. Zero Trust and Network services make up Cloudflare One. And it’s important to understand the breadth of products and how they stack up. The foundation is the Cloudflare network.
+Application services protect web assets. CF1 protects all internal assets. Developer services deliver a better experience to the end users. And all of this lies on top of the Cloudflare global network, which you can see some of the stats on here below.
+A lot of people know us for our application services but, Cloudflare is, fundamentally, a network. We started by building a network in 270+ cities around the world. On top of it we built an edge platform for developers.
+Today that network provides one consistent architecture for all of our services with unbeatable global performance and security built-in. Cloudflare One brings together Zero Trust security services with networking services deployed on that edge. And it’s built using our own developer platform for unrivaled cost efficiency and pace of innovation.
+While other vendors are stitching together SASE platforms through a series of acquisitions or shifting virtualized applications into third-party clouds, each of our services are built from the ground up. 
+
+Our platform consolidates critical functions via a single, easy-to-use UI
+REPLACE MULTIPLE PRODUCT VENDORS ACROSS THESE CORE IT CATEGORIES
+We want to help CIOs to reduce / reverse bad investments
+
+Sharing a summary view of our services and how we can help organisations consolidate their vendor stacks and hence significantly reduce their TCO across the Application, network, and corporate security layers
+
+And if any of these vendors are in your CIOs consideration set, not only should Cloudflare also be in that short list but also the CIO should know that we will add more value by providing more services. 
+
+We may not beat any of these point vendors on price but when you combine our services we will do more for less.
+
+-premise hardware network vendors, such as Cisco Systems Inc., F5 Networks, Inc., Check Point Software Technologies Ltd., FireEye, Inc., Imperva, Inc., Palo Alto Networks, Inc., Juniper Networks, Inc., Riverbed Technology, Inc., and Broadcom Inc.; 
+point-cloud solution vendors, including cloud security vendors such as Zscaler, Inc., Cisco Systems Inc. through Umbrella, and Menlo Security, Inc., content delivery network vendors such as Akamai Technologies, Inc., Fastly, Inc., and Edgio, Inc., domain name system vendors services such as Oracle Corporation through DYN, Neustar Security Services, email security vendors such as Mimecast Limited and Proofpoint, Inc., and cloud SD-WAN vendors; and 
+traditional public cloud vendors, such as Amazon.com, Inc. through Amazon Web Services, Alphabet Inc. through Google Cloud Platform, Microsoft Corporation through Azure, and Alibaba Group Holding Limited through Alibaba Cloud. 
+
+
+We fit into our
+customers’ world
+
+Technology partnerships that enable integration, be built on, or work with Cloudflare
+WE WORK WITH EVERYONE
+10
+SIEM and Log Storage
+Identity and Access Management
+Endpoint Protection & Management
+Network Onramps
+Clouds and Bandwidth Alliance
+Internet Privacy
+Global Network Fabric
+Web Platforms
+Cyber Insurance
+Partner Talk track
+Finally before we shift to reviewing what our analysts are saying about CF, I thought it would be useful to share with you the technology vendors we integrate well with. 
+
+Cloudflare's Technology partnerships mean that you can leverage your existing vendor relationships to work with Cloudflare on joint customer solutions, allowing us to create joint customer value, increased opportunity, marketing to building pipeline and net new revenue streams
+
+We deliver tangible, business outcomes for customers 
+Enhanced user experience 
+MEASURING THE IMPACT
+Faster web experience
+58%
+Generate greater revenues 
+Save costs in a recession
+Faster connection to applications and services
+Speed up Business Transformation
+39%
+Improved security end-to-end, reduced risk
+Reduced Attack Surface
+95%
+No Egress Bandwidth  Fees
+$0
+Control Operational Costs
+A good way to talk the impact of Cloudflare: 
+Business Impact - Make
+Operational Impact - Save
+Financial Impact - Over time
+
+Breach cost: IBM, Cost of a Data Breach Report, 2021, https://www.ibm.com/downloads/cas/OJDVQGRY 
+Attack surface: Gartner, Hype Cycle for Network Security, 2021, https://www.cloudflare.com/static/e377b0bdef177342347d01afca28c09f/Hype_Cycle_for_Network_Security__2021.pdf 
+Onboarding rate: eTeacher Group Case Study, 2021, https://www.cloudflare.com/case-studies/eteacher-group/ 
+IT time spent: Cloudflare Case Study, 2020, https://www.cloudflare.com/case-studies/how-cloudflare-uses-cloudflare-access-to-secure-our-global-team/  
+Faster connection: Cloudflare Argo 2.0 Blog, 2021, https://blog.cloudflare.com/argo-v2/ 
+
+Move faster with a platform that constantly delivers innovation
+BUILDING FOR TOMORROW, TODAY
+Generate greater revenues 
+Save costs in a recession
+2018
+Web App
+Firewall
+DNS Nameserver
+SASE
+Platform
+Data Localization
+Network Interconnect
+API 
+Security
+SSE & Email Security
+Object 
+Storage
+Build AI
+Apps/Elements
+Network Analytics v2
+SQL & Vector Databases
+Zero Trust Access
+L3 DDoS Protection
+WANaaS & FWaaS
+Client-Side
+Security
+Browser Isolation
+WAN Optimization
+TLS 1.3
+Encryption
+Intelligent
+Routing
+Video
+Services
+Load 
+Balancing
+Rate
+Limiting
+Development
+Platform
+DNS
+Resolver
+2024
+2014
+2022
+2010
+Launch
+Entered
+China
+Internet
+Radar
+Free Post- Quantum Crypto
+Free CAPTCHA
+Replacement
+Free 1.1.1.1 & Mobile App
+10% of the Internet
+Global Backbone
+10,000+
+Interconnects
+Free IPv6 
+for All
+100M+ Daily Active Users
+Free SSL/TLS
+for All
+Unmetered Mitigation
+1st HTTP/2 Support
+IBM Partnership
+QUIC Crypto Support
+100+
+Cities
+300+ Cities GPUs in 100+ 
+50+
+Patents
+150+
+Patents
+250+
+Patents
+JD Cloud Partnership
+$1B+ 
+ARR
+20% of the Internet
+ 
+IPO
+ 
+FedRAMP Certified
+A good way to talk the impact of Cloudflare: 
+Business Impact - Make
+Operational Impact - Save
+Financial Impact - Over time
+
+Breach cost: IBM, Cost of a Data Breach Report, 2021, https://www.ibm.com/downloads/cas/OJDVQGRY 
+Attack surface: Gartner, Hype Cycle for Network Security, 2021, https://www.cloudflare.com/static/e377b0bdef177342347d01afca28c09f/Hype_Cycle_for_Network_Security__2021.pdf 
+Onboarding rate: eTeacher Group Case Study, 2021, https://www.cloudflare.com/case-studies/eteacher-group/ 
+IT time spent: Cloudflare Case Study, 2020, https://www.cloudflare.com/case-studies/how-cloudflare-uses-cloudflare-access-to-secure-our-global-team/  
+Faster connection: Cloudflare Argo 2.0 Blog, 2021, https://blog.cloudflare.com/argo-v2/ 
+
+Enterprises on the Cloudflare platform
+A copy of these reports and others can be found at https://www.cloudflare.com/analysts/ 
+
+THE LARGEST COMPANIES IN THE WORLD TURN TO CLOUDFLARE
+We partner closely with these organizations as they go through the journey of thinking about how they can better serve their customers, their internal users, and their developers on a truly scalable platform that delivers the performance, security, and reliability they need.
+
+….And more!
+
+Our Commitment to Integrity and Compliance
+COMPLIANCE AND PRIVACY  
+The Scale: Currently managing 24 different frameworks. 10 of those were added in the last year alone
+
+Let’s talk
